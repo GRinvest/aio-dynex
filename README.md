@@ -15,7 +15,7 @@ It integrates with `Walletd` and works with Dynex 2.2.2.
 ```bash
 git clone https://github.com/GRinvest/aio-dynex.git
 cd aio-dynex
-pipenv install aio-dynex
+pipenv install
 ```
 
 ## Getting started
