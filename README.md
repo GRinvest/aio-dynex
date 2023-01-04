@@ -25,7 +25,7 @@ pipenv install
 Usage examples:
 ```python
 import asyncio
-from aio-dynex.walletd import Walletd 
+from dynex.walletd import Walletd 
 
 async def main():
     wallet = Walletd(user='<username>', password='<your password>')
